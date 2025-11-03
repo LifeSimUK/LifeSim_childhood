@@ -10,3 +10,5 @@ mcsimput (STATA)       - multiple imputation of raw data to fill missing observa
 miregs (R)             - regressions of multiply imputed data to parameterise simulation
 lifesim2_main (Python) - run simulations and create simulated datasets, results tables and figures  
 person (Python)        - function called in lifesim2_main to run simulation
+
+The folder IJM_2026 contains the code to replicate LifeSim Childhood: Extrapolating Intervention Effects and Public Cost Savings from Birth to Adolescence in the UK .
