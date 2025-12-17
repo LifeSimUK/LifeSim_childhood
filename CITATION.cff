@@ -1,0 +1,70 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: LifeSim Childhood
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Shrathinth
+    family-names: Venkatesh
+    email: shrathinth.venkatesh@york.ac.uk
+    affiliation: 'Centre for Health Economics, University of York'
+    orcid: 'https://orcid.org/0000-0002-5053-1833'
+  - given-names: Ieva
+    family-names: Skarda
+    orcid: 'https://orcid.org/0000-0002-0866-2936'
+    affiliation: 'Centre for Health Economics, University of York'
+  - given-names: Aase
+    family-names: Villadsen
+    affiliation: >-
+      Centre for Longitudinal Studies, Social Research
+      Institute, University College London
+    orcid: 'https://orcid.org/0000-0003-0066-9188'
+  - given-names: Miqdad
+    family-names: Asaria
+    affiliation: >-
+      Department of Health Policy, The London School of
+      Economics
+    orcid: 'https://orcid.org/0000-0002-3538-4417'
+  - given-names: Sarah
+    family-names: Bates
+    affiliation: >-
+      School of Medicine and Population Health, University
+      of Sheffield
+    orcid: 'https://orcid.org/0000-0002-6358-0060'
+  - given-names: Jan
+    family-names: R. Boehnke
+    orcid: 'https://orcid.org/0000-0003-0249-1870'
+    affiliation: 'School of Health Sciences, University of Dundee'
+  - given-names: Christian
+    family-names: Krekel
+    affiliation: >-
+      Centre for Economic Performance, London School of
+      Economics
+    orcid: 'https://orcid.org/0000-0001-5960-3891'
+  - given-names: Mark
+    family-names: Mon-Williams
+    affiliation: 'School of Psychology, University of Leeds'
+    orcid: 'https://orcid.org/0000-0001-7595-8545'
+  - given-names: George
+    family-names: Ploubidis
+    affiliation: 'Social Research Institute, University College London'
+    orcid: 'https://orcid.org/0000-0002-8198-5790'
+  - given-names: Paul
+    family-names: A. Tiffin
+    affiliation: 'The Hull York Medical School, University of York'
+    orcid: 'https://orcid.org/0000-0003-1770-5034'
+  - given-names: Richard
+    family-names: Cookson
+    affiliation: 'Centre for Health Economics, University of York'
+    orcid: 'https://orcid.org/0000-0003-0052-996X'
+identifiers:
+  - type: url
+    value: 'https://eprints.whiterose.ac.uk/id/eprint/234125/'
+    description: Working paper
+repository-code: 'https://github.com/LifeSimUK/LifeSim_childhood'
+version: 1.0.1
+date-released: '2025-11-03'
